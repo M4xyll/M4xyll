@@ -1,14 +1,4 @@
-🔭 **I’m currently working on**: Mastering the art of brewing the perfect coffee while debugging my code at 3 AM.  
-
-👯 **I’m looking to collaborate on**: Any project that makes people say, “Wait… you actually built that?”  
-
-🤝 **I’m looking for help with**: Convincing my PC that “update” doesn’t mean “take a 45-minute break.”  
-
-🌱 **I’m currently learning**: How to stop adding “just one more feature” before release day.  
-
-💬 **Ask me about**: Random tech trivia, weird internet history, or why tabs > spaces (don’t start a war).  
-
-⚡ **Fun fact**: I once fixed a bug by accident and # 💫 About Me:
+# 💫 About Me:
 🔭 **I’m currently working on**: Mastering the art of brewing the perfect coffee while debugging my code at 3 AM.  <br><br>👯 **I’m looking to collaborate on**: Any project that makes people say, “Wait… you actually built that?”  <br><br>🤝 **I’m looking for help with**: Convincing my PC that “update” doesn’t mean “take a 45-minute break.”  <br><br>🌱 **I’m currently learning**: How to stop adding “just one more feature” before release day.  <br><br>💬 **Ask me about**: Random tech trivia, weird internet history, or why tabs > spaces (don’t start a war).  <br><br>⚡ **Fun fact**: I once fixed a bug by accident and spent 2 hours figuring out how I did it.  <br>
 
 
@@ -31,4 +21,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=M4xyll&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 2 hours figuring out how I did it.  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
