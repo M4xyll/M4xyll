@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Hey there! I'm Maxence
+# 🚀 Hey there! I'm M4xyll
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Full-Stack+Developer+%F0%9F%92%BB;Coffee+Enthusiast+%E2%98%95;3AM+Debugging+Specialist+%F0%9F%8C%99;Clean+Code+Advocate+%E2%9C%A8;Building+Digital+Experiences+%F0%9F%8E%A8" alt="Typing SVG" />
 
@@ -13,7 +13,7 @@
 > *Crafting digital experiences with modern web technologies while mastering the delicate balance between "just one more feature" and actually shipping products.*
 
 ```typescript
-const maxence = {
+const m4xyll = {
     currentFocus: "Building projects that make people go 'wait, how?'",
     learning: "The ancient art of feature creep resistance",
     askMeAbout: ["Random tech trivia", "Weird internet history", "Why tabs > spaces"],
@@ -133,14 +133,42 @@ const maxence = {
 
 </div>
 
-## 🏆 Achievements & Trophies
+## ​ My Development Studio – Maj Studio
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=M4xyll&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7"/>
+<img src="https://maxence.detourniere.com/logoMajStudio2.png" alt="Maj Studio Logo" width="150"/>
+
+<img src="https://img.shields.io/badge/We%20Build-Experiences-blueviolet?style=for-the-badge&logo=rocket" />
+<img src="https://img.shields.io/badge/Founded-2023-success?style=for-the-badge&logo=github-sponsors" />
+<img src="https://img.shields.io/badge/Focus-Web%20%7C%20Apps%20%7C%20Games-critical?style=for-the-badge&logo=codeigniter" />
 
 </div>
 
+> **"Turning ideas into fully functional, polished digital products."**
+
+### **What We Do**
+- **Web Development:** Modern, responsive, and lightning-fast websites.  
+- **Minecraft & Game Dev:** Plugins, servers, and interactive worlds.  
+- **Discord Bots & Automation:** Custom bots tailored for communities and businesses.  
+- **Mobile Apps:** Cross-platform apps built with Flutter & React Native.  
+- **Custom Software Solutions:** If you can imagine it, we can build it.
+
+### **Why Choose Us?**
+- Fast, reliable, and transparent development.
+- Passionate about crafting products people *actually love*.
+- Open to collaborations & exciting challenges.
+
+<div align="center">
+<a href="https://discord.gg/dXZtJjeVmK">
+  <img src="https://img.shields.io/badge/Join%20Our%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</a>
+<a href="mailto:m4xyll.dev@proton.me">
+  <img src="https://img.shields.io/badge/Work%20With%20Us-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" />
+</a>
+</div>
+
+---
 ## 🚀 Top Repositories
 
 <div align="center">
