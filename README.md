@@ -133,11 +133,13 @@ const m4xyll = {
 
 </div>
 
-## ​ My Development Studio – Maj Studio
+## 🏢 My Development Studio – Maj Studio
 
-<div align="center">
+<div align="center" style="margin-bottom: 20px;">
 
-<img src="https://maxence.detourniere.com/logoMajStudio2.png" alt="Maj Studio Logo" width="150"/>
+<p align="center">
+  <img src="https://maxence.detourniere.com/logoMajStudio2.png" alt="Maj Studio Logo" width="200" style="max-width: 100%;"/>
+</p>
 
 <img src="https://img.shields.io/badge/We%20Build-Experiences-blueviolet?style=for-the-badge&logo=rocket" />
 <img src="https://img.shields.io/badge/Founded-2023-success?style=for-the-badge&logo=github-sponsors" />
