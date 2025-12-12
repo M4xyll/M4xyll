@@ -133,36 +133,36 @@ const m4xyll = {
 
 </div>
 
-## 🏢 My Development Studio – Maj Studio
+## 🏢 My Hosting Service – Nicolas4Tech
 
 <div align="center" style="margin-bottom: 20px;">
 
 <p align="center">
-  <img src="https://maxence.detourniere.com/logoMajStudio2.png" alt="Maj Studio Logo" width="200" style="max-width: 100%;"/>
+  <img src="https://m4xyll.qzz.io/N4T.png" alt="Nicolas4Tech Logo" width="200" style="max-width: 100%;"/>
 </p>
 
-<img src="https://img.shields.io/badge/We%20Build-Experiences-blueviolet?style=for-the-badge&logo=rocket" />
+<img src="https://img.shields.io/badge/We%20Host-Reliable%20Services-blueviolet?style=for-the-badge&logo=rocket" />
 <img src="https://img.shields.io/badge/Founded-2023-success?style=for-the-badge&logo=github-sponsors" />
 <img src="https://img.shields.io/badge/Focus-Web%20%7C%20Apps%20%7C%20Games-critical?style=for-the-badge&logo=codeigniter" />
 
 </div>
 
-> **"Turning ideas into fully functional, polished digital products."**
+> **"Providing fast, secure, and reliable hosting solutions for your projects."**
 
 ### **What We Do**
-- **Web Development:** Modern, responsive, and lightning-fast websites.  
-- **Minecraft & Game Dev:** Plugins, servers, and interactive worlds.  
-- **Discord Bots & Automation:** Custom bots tailored for communities and businesses.  
-- **Mobile Apps:** Cross-platform apps built with Flutter & React Native.  
-- **Custom Software Solutions:** If you can imagine it, we can build it.
+- **Web Hosting:** Scalable, secure, and optimized for performance.  
+- **Game Servers:** Minecraft & other game hosting with full customization.  
+- **Discord Bots & Automation:** Hosting and deployment for communities & businesses.  
+- **Custom Hosting Solutions:** Tailored infrastructure for your unique needs.  
+- **Custom Orders:** 💡 *Got a special request? I take custom commissions!*  
 
-### **Why Choose Us?**
-- Fast, reliable, and transparent development.
-- Passionate about crafting products people *actually love*.
-- Open to collaborations & exciting challenges.
+### **Why Choose Nicolas4Tech?**
+- 99.9% uptime guarantee with anti‑DDoS protection.  
+- Transparent pricing and reliable support.  
+- Open to collaborations & custom projects.  
 
 <div align="center">
-<a href="https://discord.gg/dXZtJjeVmK">
+<a href="https://discord.gg/UPnNpkUYuJ">
   <img src="https://img.shields.io/badge/Join%20Our%20Community-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 <a href="mailto:m4xyll.dev@proton.me">
@@ -196,7 +196,5 @@ const m4xyll = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&text=&fontSize=0&animation=twinkling"/>
 
 <img src="https://komarev.com/ghpvc/?username=M4xyll&style=for-the-badge&color=00d9ff"/>
-
-**[⬆ Back to Top](#-hey-there-im-maxence)**
 
 </div>
