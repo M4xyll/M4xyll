@@ -138,7 +138,7 @@ const m4xyll = {
 <div align="center" style="margin-bottom: 20px;">
 
 <p align="center">
-  <img src="https://m4xyll.qzz.io/N4T.png" alt="Nicolas4Tech Logo" width="200" style="max-width: 100%;"/>
+  <img src="https://nicolas4tech.fr/assets/nicolas4tech.png" alt="Nicolas4Tech Logo" width="200" style="max-width: 100%;"/>
 </p>
 
 <img src="https://img.shields.io/badge/We%20Host-Reliable%20Services-blueviolet?style=for-the-badge&logo=rocket" />
