@@ -1,0 +1,43 @@
+<svg viewBox="0 0 380 254" width="380" height="254" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'Cascadia Code', 'SF Mono', 'Consolas', 'Liberation Mono', 'DejaVu Sans Mono', 'Menlo', monospace">
+
+  <clipPath id="panel-clip"><rect x="0" y="0" width="380" height="254" rx="6" ry="6"/></clipPath>
+  <g clip-path="url(#panel-clip)">
+    <rect x="0" y="0" width="380" height="254" fill="#0d1117"/>
+    <rect x="0" y="0" width="380" height="32" fill="#161b22"/>
+    <circle cx="18" cy="16.0" r="5" fill="#ff5f56"/>
+    <circle cx="36" cy="16.0" r="5" fill="#ffbd2e"/>
+    <circle cx="54" cy="16.0" r="5" fill="#27c93f"/>
+    <text x="190.0" y="20.0" text-anchor="middle" font-size="12" fill="#6e7681">info-card.svg</text>
+    <rect x="0.5" y="0.5" width="379" height="253" rx="6" ry="6" fill="none" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+<g opacity="0"><text x="20.00" y="60.00" font-size="14" fill="#58a6ff" textLength="101.40" lengthAdjust="spacingAndGlyphs" >M4xyll@github</text><animate attributeName="opacity" from="0" to="1" begin="0.000s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><line x1="20" y1="67.04" x2="360" y2="67.04" stroke="#30363d" stroke-width="1"/><animate attributeName="opacity" from="0" to="1" begin="0.120s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20.00" y="82.00" font-size="13" fill="#58a6ff" textLength="39.00" lengthAdjust="spacingAndGlyphs" >role:</text>
+<text x="90.20" y="82.00" font-size="13" fill="#c9d1d9" textLength="70.20" lengthAdjust="spacingAndGlyphs" >Fullstack</text>
+<text x="168.20" y="82.00" font-size="13" fill="#c9d1d9" textLength="70.20" lengthAdjust="spacingAndGlyphs" >Developer</text>
+<text x="246.20" y="82.00" font-size="13" fill="#c9d1d9" textLength="7.80" lengthAdjust="spacingAndGlyphs" >&amp;</text>
+<text x="261.80" y="82.00" font-size="13" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >Founder</text><animate attributeName="opacity" from="0" to="1" begin="0.240s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20.00" y="104.00" font-size="13" fill="#58a6ff" textLength="70.20" lengthAdjust="spacingAndGlyphs" >building:</text>
+<text x="90.20" y="104.00" font-size="13" fill="#c9d1d9" textLength="46.80" lengthAdjust="spacingAndGlyphs" >Ryvord</text>
+<text x="144.80" y="104.00" font-size="13" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >Hosting</text><animate attributeName="opacity" from="0" to="1" begin="0.360s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="90.20" y="126.00" font-size="13" fill="#c9d1d9" textLength="39.00" lengthAdjust="spacingAndGlyphs" >Atacq</text>
+<text x="137.00" y="126.00" font-size="13" fill="#c9d1d9" textLength="7.80" lengthAdjust="spacingAndGlyphs" >—</text>
+<text x="152.60" y="126.00" font-size="13" fill="#c9d1d9" textLength="70.20" lengthAdjust="spacingAndGlyphs" >AI-driven</text>
+<text x="230.60" y="126.00" font-size="13" fill="#c9d1d9" textLength="101.40" lengthAdjust="spacingAndGlyphs" >cybersecurity</text><animate attributeName="opacity" from="0" to="1" begin="0.480s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20.00" y="148.00" font-size="13" fill="#58a6ff" textLength="46.80" lengthAdjust="spacingAndGlyphs" >stack:</text>
+<text x="90.20" y="148.00" font-size="13" fill="#c9d1d9" textLength="39.00" lengthAdjust="spacingAndGlyphs" >React</text>
+<text x="137.00" y="148.00" font-size="13" fill="#c9d1d9" textLength="7.80" lengthAdjust="spacingAndGlyphs" >/</text>
+<text x="152.60" y="148.00" font-size="13" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >Next.js</text>
+<text x="215.00" y="148.00" font-size="13" fill="#c9d1d9" textLength="7.80" lengthAdjust="spacingAndGlyphs" >/</text>
+<text x="230.60" y="148.00" font-size="13" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >Node.js</text>
+<text x="293.00" y="148.00" font-size="13" fill="#c9d1d9" textLength="7.80" lengthAdjust="spacingAndGlyphs" >/</text>
+<text x="308.60" y="148.00" font-size="13" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >Fastify</text><animate attributeName="opacity" from="0" to="1" begin="0.600s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20.00" y="170.00" font-size="13" fill="#58a6ff" textLength="46.80" lengthAdjust="spacingAndGlyphs" >infra:</text>
+<text x="90.20" y="170.00" font-size="13" fill="#c9d1d9" textLength="62.40" lengthAdjust="spacingAndGlyphs" >Proxmox,</text>
+<text x="160.40" y="170.00" font-size="13" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >Docker,</text>
+<text x="222.80" y="170.00" font-size="13" fill="#c9d1d9" textLength="85.80" lengthAdjust="spacingAndGlyphs" >self-hosted</text><animate attributeName="opacity" from="0" to="1" begin="0.720s" dur="0.35s" fill="freeze"/></g>
+<g opacity="0"><text x="20.00" y="192.00" font-size="13" fill="#58a6ff" textLength="70.20" lengthAdjust="spacingAndGlyphs" >location:</text>
+<text x="90.20" y="192.00" font-size="13" fill="#c9d1d9" textLength="46.80" lengthAdjust="spacingAndGlyphs" >Paris,</text>
+<text x="144.80" y="192.00" font-size="13" fill="#c9d1d9" textLength="46.80" lengthAdjust="spacingAndGlyphs" >France</text><animate attributeName="opacity" from="0" to="1" begin="0.840s" dur="0.35s" fill="freeze"/></g>
+</svg>

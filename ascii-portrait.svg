@@ -1,0 +1,136 @@
+<svg viewBox="0 0 368 428" width="368" height="428" xmlns="http://www.w3.org/2000/svg" font-family="ui-monospace, 'Cascadia Code', 'SF Mono', 'Consolas', 'Liberation Mono', 'DejaVu Sans Mono', 'Menlo', monospace">
+
+  <clipPath id="panel-clip"><rect x="0" y="0" width="368" height="428" rx="6" ry="6"/></clipPath>
+  <g clip-path="url(#panel-clip)">
+    <rect x="0" y="0" width="368" height="428" fill="#0d1117"/>
+    <rect x="0" y="0" width="368" height="32" fill="#161b22"/>
+    <circle cx="18" cy="16.0" r="5" fill="#ff5f56"/>
+    <circle cx="36" cy="16.0" r="5" fill="#ffbd2e"/>
+    <circle cx="54" cy="16.0" r="5" fill="#27c93f"/>
+    <text x="184.0" y="20.0" text-anchor="middle" font-size="12" fill="#6e7681">ascii-portrait.svg</text>
+    <rect x="0.5" y="0.5" width="367" height="427" rx="6" ry="6" fill="none" stroke="#21262d" stroke-width="1"/>
+  </g>
+
+<g opacity="0"><text x="108.40" y="83.00" font-size="7" fill="#c9d1d9" textLength="50.40" lengthAdjust="spacingAndGlyphs" >`:+c*csss-`.</text><animate attributeName="opacity" from="0" to="1" begin="0.185s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="95.80" y="90.00" font-size="7" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" >..-+*cccss@%%s-.</text><animate attributeName="opacity" from="0" to="1" begin="0.231s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="70.60" y="97.00" font-size="7" fill="#c9d1d9" textLength="100.80" lengthAdjust="spacingAndGlyphs" >*cssc*+**+++-:``+ssS#s+:</text><animate attributeName="opacity" from="0" to="1" begin="0.277s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="66.40" y="104.00" font-size="7" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >-c##SS*``:-:`</text>
+<text x="125.20" y="104.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >..</text>
+<text x="137.80" y="104.00" font-size="7" fill="#c9d1d9" textLength="58.80" lengthAdjust="spacingAndGlyphs" >:==*ss#%%#S*-`</text><animate attributeName="opacity" from="0" to="1" begin="0.323s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="66.40" y="111.00" font-size="7" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >*sSc=*-.-+:=:</text>
+<text x="142.00" y="111.00" font-size="7" fill="#c9d1d9" textLength="75.60" lengthAdjust="spacingAndGlyphs" >`:=*cs#@@@@%#ss-::</text><animate attributeName="opacity" from="0" to="1" begin="0.369s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="66.40" y="118.00" font-size="7" fill="#c9d1d9" textLength="50.40" lengthAdjust="spacingAndGlyphs" >-**=:`.:==``</text>
+<text x="142.00" y="118.00" font-size="7" fill="#c9d1d9" textLength="84.00" lengthAdjust="spacingAndGlyphs" >`:==-==+csSsc+S*+c+-</text><animate attributeName="opacity" from="0" to="1" begin="0.415s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="53.80" y="125.00" font-size="7" fill="#c9d1d9" textLength="42.00" lengthAdjust="spacingAndGlyphs" >.:*ss*=`..</text>
+<text x="100.00" y="125.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >.`</text>
+<text x="158.80" y="125.00" font-size="7" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" >..`````:`-c-=s*c</text><animate attributeName="opacity" from="0" to="1" begin="0.462s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="49.60" y="132.00" font-size="7" fill="#c9d1d9" textLength="37.80" lengthAdjust="spacingAndGlyphs" >`:-*#%S+.</text>
+<text x="192.40" y="132.00" font-size="7" fill="#c9d1d9" textLength="33.60" lengthAdjust="spacingAndGlyphs" >..:=*s#+</text><animate attributeName="opacity" from="0" to="1" begin="0.508s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="58.00" y="139.00" font-size="7" fill="#c9d1d9" textLength="29.40" lengthAdjust="spacingAndGlyphs" >`=c#%*`</text>
+<text x="200.80" y="139.00" font-size="7" fill="#c9d1d9" textLength="29.40" lengthAdjust="spacingAndGlyphs" >:s%S**.</text><animate attributeName="opacity" from="0" to="1" begin="0.554s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="53.80" y="146.00" font-size="7" fill="#c9d1d9" textLength="33.60" lengthAdjust="spacingAndGlyphs" >-+=*cc+`</text>
+<text x="200.80" y="146.00" font-size="7" fill="#c9d1d9" textLength="33.60" lengthAdjust="spacingAndGlyphs" >.*c+-=+.</text><animate attributeName="opacity" from="0" to="1" begin="0.600s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="49.60" y="153.00" font-size="7" fill="#c9d1d9" textLength="25.20" lengthAdjust="spacingAndGlyphs" >-+-`..</text>
+<text x="100.00" y="153.00" font-size="7" fill="#c9d1d9" textLength="63.00" lengthAdjust="spacingAndGlyphs" >...``````..``..</text>
+<text x="205.00" y="153.00" font-size="7" fill="#c9d1d9" textLength="29.40" lengthAdjust="spacingAndGlyphs" >.`.`-*+</text><animate attributeName="opacity" from="0" to="1" begin="0.646s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="160.00" font-size="7" fill="#c9d1d9" textLength="16.80" lengthAdjust="spacingAndGlyphs" >.*+`</text>
+<text x="87.40" y="160.00" font-size="7" fill="#c9d1d9" textLength="92.40" lengthAdjust="spacingAndGlyphs" >:============-----:``.</text>
+<text x="213.40" y="160.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text>
+<text x="226.00" y="160.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >`-</text><animate attributeName="opacity" from="0" to="1" begin="0.692s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="167.00" font-size="7" fill="#c9d1d9" textLength="12.60" lengthAdjust="spacingAndGlyphs" >`=`</text>
+<text x="79.00" y="167.00" font-size="7" fill="#c9d1d9" textLength="121.80" lengthAdjust="spacingAndGlyphs" >`+ccccccccc***cc**+++=--:`...</text>
+<text x="234.40" y="167.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text><animate attributeName="opacity" from="0" to="1" begin="0.738s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="174.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >`:</text>
+<text x="74.80" y="174.00" font-size="7" fill="#c9d1d9" textLength="134.40" lengthAdjust="spacingAndGlyphs" >-cssssSssssssssSSSSsc*****====-`</text>
+<text x="234.40" y="174.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >`</text><animate attributeName="opacity" from="0" to="1" begin="0.785s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="181.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >``</text>
+<text x="70.60" y="181.00" font-size="7" fill="#c9d1d9" textLength="147.00" lengthAdjust="spacingAndGlyphs" >=sssSSsSssSssssSSSSSssccccc****++=:</text>
+<text x="234.40" y="181.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >..</text><animate attributeName="opacity" from="0" to="1" begin="0.831s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="188.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >:.</text>
+<text x="62.20" y="188.00" font-size="7" fill="#c9d1d9" textLength="159.60" lengthAdjust="spacingAndGlyphs" >.=sSsssSssssscssssSSSSsscccccccc****+`</text>
+<text x="238.60" y="188.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text><animate attributeName="opacity" from="0" to="1" begin="0.877s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="195.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text>
+<text x="58.00" y="195.00" font-size="7" fill="#c9d1d9" textLength="168.00" lengthAdjust="spacingAndGlyphs" >.:sSSSssssc***ccccss*cccc***cccc*****+=.</text>
+<text x="238.60" y="195.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >`</text><animate attributeName="opacity" from="0" to="1" begin="0.923s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="58.00" y="202.00" font-size="7" fill="#c9d1d9" textLength="168.00" lengthAdjust="spacingAndGlyphs" >.=sssssccccc*****++***+++=++*********+=:</text>
+<text x="238.60" y="202.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >`</text><animate attributeName="opacity" from="0" to="1" begin="0.969s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="58.00" y="209.00" font-size="7" fill="#c9d1d9" textLength="168.00" lengthAdjust="spacingAndGlyphs" >.csccccc*ccccc**++=+++++=-==++*******+=-</text>
+<text x="238.60" y="209.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >`</text><animate attributeName="opacity" from="0" to="1" begin="1.015s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="58.00" y="216.00" font-size="7" fill="#c9d1d9" textLength="172.20" lengthAdjust="spacingAndGlyphs" >`ssc*+++++**ccc**+++*+++++==++******++==.</text>
+<text x="238.60" y="216.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >`</text><animate attributeName="opacity" from="0" to="1" begin="1.062s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="49.60" y="223.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text>
+<text x="58.00" y="223.00" font-size="7" fill="#c9d1d9" textLength="172.20" lengthAdjust="spacingAndGlyphs" >:s*=`....``:--=+++*cc*ccc+**+++++---==+=`</text>
+<text x="238.60" y="223.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text><animate attributeName="opacity" from="0" to="1" begin="1.108s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="230.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >.`</text>
+<text x="58.00" y="230.00" font-size="7" fill="#c9d1d9" textLength="29.40" lengthAdjust="spacingAndGlyphs" >.=:``:.</text>
+<text x="116.80" y="230.00" font-size="7" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" >.``.-*ccccc+=-`.</text>
+<text x="217.60" y="230.00" font-size="7" fill="#c9d1d9" textLength="12.60" lengthAdjust="spacingAndGlyphs" >.``</text><animate attributeName="opacity" from="0" to="1" begin="1.154s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="237.00" font-size="7" fill="#c9d1d9" textLength="12.60" lengthAdjust="spacingAndGlyphs" >.-`</text>
+<text x="62.20" y="237.00" font-size="7" fill="#c9d1d9" textLength="46.20" lengthAdjust="spacingAndGlyphs" >-:::::`:``.</text>
+<text x="112.60" y="237.00" font-size="7" fill="#c9d1d9" textLength="71.40" lengthAdjust="spacingAndGlyphs" >..``:`=+===-````.</text>
+<text x="234.40" y="237.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >`</text><animate attributeName="opacity" from="0" to="1" begin="1.200s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="244.00" font-size="7" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" >`*``c+:````::`..</text>
+<text x="116.80" y="244.00" font-size="7" fill="#c9d1d9" textLength="42.00" lengthAdjust="spacingAndGlyphs" >.`:-`::-`.</text>
+<text x="163.00" y="244.00" font-size="7" fill="#c9d1d9" textLength="12.60" lengthAdjust="spacingAndGlyphs" >`..</text>
+<text x="179.80" y="244.00" font-size="7" fill="#c9d1d9" textLength="63.00" lengthAdjust="spacingAndGlyphs" >.`:--::```:.=:`</text><animate attributeName="opacity" from="0" to="1" begin="1.246s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="251.00" font-size="7" fill="#c9d1d9" textLength="37.80" lengthAdjust="spacingAndGlyphs" >++.+s*:..</text>
+<text x="87.40" y="251.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text>
+<text x="108.40" y="251.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text>
+<text x="116.80" y="251.00" font-size="7" fill="#c9d1d9" textLength="42.00" lengthAdjust="spacingAndGlyphs" >.--:`+Ss*:</text>
+<text x="163.00" y="251.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text>
+<text x="171.40" y="251.00" font-size="7" fill="#c9d1d9" textLength="12.60" lengthAdjust="spacingAndGlyphs" >..`</text>
+<text x="192.40" y="251.00" font-size="7" fill="#c9d1d9" textLength="50.40" lengthAdjust="spacingAndGlyphs" >......:-:S=.</text><animate attributeName="opacity" from="0" to="1" begin="1.292s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="258.00" font-size="7" fill="#c9d1d9" textLength="50.40" lengthAdjust="spacingAndGlyphs" >+-:csc+-:``.</text>
+<text x="104.20" y="258.00" font-size="7" fill="#c9d1d9" textLength="25.20" lengthAdjust="spacingAndGlyphs" >.``-+-</text>
+<text x="137.80" y="258.00" font-size="7" fill="#c9d1d9" textLength="21.00" lengthAdjust="spacingAndGlyphs" >cSs*`</text>
+<text x="167.20" y="258.00" font-size="7" fill="#c9d1d9" textLength="71.40" lengthAdjust="spacingAndGlyphs" >.``-:..`-``-+++s:</text><animate attributeName="opacity" from="0" to="1" begin="1.338s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="265.00" font-size="7" fill="#c9d1d9" textLength="84.00" lengthAdjust="spacingAndGlyphs" >=:+=sc+===-----=+**:</text>
+<text x="133.60" y="265.00" font-size="7" fill="#c9d1d9" textLength="25.20" lengthAdjust="spacingAndGlyphs" >=ssc*-</text>
+<text x="167.20" y="265.00" font-size="7" fill="#c9d1d9" textLength="71.40" lengthAdjust="spacingAndGlyphs" >.:-==-:-=+*cc*+-:</text><animate attributeName="opacity" from="0" to="1" begin="1.385s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="272.00" font-size="7" fill="#c9d1d9" textLength="117.60" lengthAdjust="spacingAndGlyphs" >==+s=+*=++**ccccc*-`=*cc*=-:</text>
+<text x="167.20" y="272.00" font-size="7" fill="#c9d1d9" textLength="71.40" lengthAdjust="spacingAndGlyphs" >:+**cccccccc*+--`</text><animate attributeName="opacity" from="0" to="1" begin="1.431s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="45.40" y="279.00" font-size="7" fill="#c9d1d9" textLength="189.00" lengthAdjust="spacingAndGlyphs" >`**sc*=------===::+*+=-=-:```.:=+*cccccc*=--=</text><animate attributeName="opacity" from="0" to="1" begin="1.477s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="49.60" y="286.00" font-size="7" fill="#c9d1d9" textLength="184.80" lengthAdjust="spacingAndGlyphs" >`=scc*++=---==+c*=-==++==-`.``.`::-----=++=`</text><animate attributeName="opacity" from="0" to="1" begin="1.523s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="53.80" y="293.00" font-size="7" fill="#c9d1d9" textLength="176.40" lengthAdjust="spacingAndGlyphs" >.ccc*++=-*****+``+**ccc*+-:..=+++***cc*+=`</text><animate attributeName="opacity" from="0" to="1" begin="1.569s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="58.00" y="300.00" font-size="7" fill="#c9d1d9" textLength="168.00" lengthAdjust="spacingAndGlyphs" >+c*++=++++++=:-+=--===--..:`:=+c*ccc*+=:</text><animate attributeName="opacity" from="0" to="1" begin="1.615s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="58.00" y="307.00" font-size="7" fill="#c9d1d9" textLength="67.20" lengthAdjust="spacingAndGlyphs" >-++==========-``</text>
+<text x="129.40" y="307.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >..</text>
+<text x="167.20" y="307.00" font-size="7" fill="#c9d1d9" textLength="58.80" lengthAdjust="spacingAndGlyphs" >..:-+**cc*+=:.</text><animate attributeName="opacity" from="0" to="1" begin="1.662s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="58.00" y="314.00" font-size="7" fill="#c9d1d9" textLength="96.60" lengthAdjust="spacingAndGlyphs" >`*+===--======-::`==:--</text>
+<text x="163.00" y="314.00" font-size="7" fill="#c9d1d9" textLength="63.00" lengthAdjust="spacingAndGlyphs" >``-==++++++=:`.</text><animate attributeName="opacity" from="0" to="1" begin="1.708s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="62.20" y="321.00" font-size="7" fill="#c9d1d9" textLength="159.60" lengthAdjust="spacingAndGlyphs" >*+++=-=---=-::-:-==-+*=`.`:-----=-+:::</text><animate attributeName="opacity" from="0" to="1" begin="1.754s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="62.20" y="328.00" font-size="7" fill="#c9d1d9" textLength="159.60" lengthAdjust="spacingAndGlyphs" >=*++=-:..`::---===::-=+---:::``.-:=:-`</text><animate attributeName="opacity" from="0" to="1" begin="1.800s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="62.20" y="335.00" font-size="7" fill="#c9d1d9" textLength="42.00" lengthAdjust="spacingAndGlyphs" >.**+==:`..</text>
+<text x="108.40" y="335.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >..</text>
+<text x="129.40" y="335.00" font-size="7" fill="#c9d1d9" textLength="21.00" lengthAdjust="spacingAndGlyphs" >.....</text>
+<text x="184.00" y="335.00" font-size="7" fill="#c9d1d9" textLength="33.60" lengthAdjust="spacingAndGlyphs" >.:-=---:</text><animate attributeName="opacity" from="0" to="1" begin="1.846s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="66.40" y="342.00" font-size="7" fill="#c9d1d9" textLength="46.20" lengthAdjust="spacingAndGlyphs" >`*++===-:-`</text>
+<text x="175.60" y="342.00" font-size="7" fill="#c9d1d9" textLength="37.80" lengthAdjust="spacingAndGlyphs" >.:=++---:</text><animate attributeName="opacity" from="0" to="1" begin="1.892s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="70.60" y="349.00" font-size="7" fill="#c9d1d9" textLength="92.40" lengthAdjust="spacingAndGlyphs" >`++++++++*=:.`:--:::`.</text>
+<text x="171.40" y="349.00" font-size="7" fill="#c9d1d9" textLength="42.00" lengthAdjust="spacingAndGlyphs" >`-+++=-:`.</text><animate attributeName="opacity" from="0" to="1" begin="1.938s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="74.80" y="356.00" font-size="7" fill="#c9d1d9" textLength="58.80" lengthAdjust="spacingAndGlyphs" >:-=++=+++++=:.</text>
+<text x="158.80" y="356.00" font-size="7" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >.`:=++==:``..</text><animate attributeName="opacity" from="0" to="1" begin="1.985s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="74.80" y="363.00" font-size="7" fill="#c9d1d9" textLength="138.60" lengthAdjust="spacingAndGlyphs" >:-:---=======:``::-:-=++==-:`.`-.</text><animate attributeName="opacity" from="0" to="1" begin="2.031s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="74.80" y="370.00" font-size="7" fill="#c9d1d9" textLength="117.60" lengthAdjust="spacingAndGlyphs" >`=-`:---===+**+****++++=--:.</text>
+<text x="196.60" y="370.00" font-size="7" fill="#c9d1d9" textLength="16.80" lengthAdjust="spacingAndGlyphs" >`==`</text><animate attributeName="opacity" from="0" to="1" begin="2.077s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="74.80" y="377.00" font-size="7" fill="#c9d1d9" textLength="109.20" lengthAdjust="spacingAndGlyphs" >`++=``:-=+=-ccc**c***+=--`</text>
+<text x="192.40" y="377.00" font-size="7" fill="#c9d1d9" textLength="21.00" lengthAdjust="spacingAndGlyphs" >:=++:</text>
+<text x="217.60" y="377.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text><animate attributeName="opacity" from="0" to="1" begin="2.123s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="74.80" y="384.00" font-size="7" fill="#c9d1d9" textLength="105.00" lengthAdjust="spacingAndGlyphs" >`++++-.`:-=+++=-`-+*+-``.</text>
+<text x="184.00" y="384.00" font-size="7" fill="#c9d1d9" textLength="29.40" lengthAdjust="spacingAndGlyphs" >.-=**+-</text>
+<text x="221.80" y="384.00" font-size="7" fill="#c9d1d9" textLength="4.20" lengthAdjust="spacingAndGlyphs" >.</text><animate attributeName="opacity" from="0" to="1" begin="2.169s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="74.80" y="391.00" font-size="7" fill="#c9d1d9" textLength="37.80" lengthAdjust="spacingAndGlyphs" >`+=+++=:.</text>
+<text x="121.00" y="391.00" font-size="7" fill="#c9d1d9" textLength="16.80" lengthAdjust="spacingAndGlyphs" >.``.</text>
+<text x="146.20" y="391.00" font-size="7" fill="#c9d1d9" textLength="16.80" lengthAdjust="spacingAndGlyphs" >`::`</text>
+<text x="175.60" y="391.00" font-size="7" fill="#c9d1d9" textLength="37.80" lengthAdjust="spacingAndGlyphs" >.:=+*cc*=</text>
+<text x="226.00" y="391.00" font-size="7" fill="#c9d1d9" textLength="12.60" lengthAdjust="spacingAndGlyphs" >:`.</text><animate attributeName="opacity" from="0" to="1" begin="2.215s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="74.80" y="398.00" font-size="7" fill="#c9d1d9" textLength="54.60" lengthAdjust="spacingAndGlyphs" >`==+***+=-:`.</text>
+<text x="163.00" y="398.00" font-size="7" fill="#c9d1d9" textLength="50.40" lengthAdjust="spacingAndGlyphs" >.`:-+*cccc*-</text>
+<text x="226.00" y="398.00" font-size="7" fill="#c9d1d9" textLength="21.00" lengthAdjust="spacingAndGlyphs" >::--`</text><animate attributeName="opacity" from="0" to="1" begin="2.262s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="79.00" y="405.00" font-size="7" fill="#c9d1d9" textLength="134.40" lengthAdjust="spacingAndGlyphs" >-=++****+++=--::```::-=+ccccc*+:</text>
+<text x="221.80" y="405.00" font-size="7" fill="#c9d1d9" textLength="33.60" lengthAdjust="spacingAndGlyphs" >.`.``:..</text>
+<text x="268.00" y="405.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >..</text><animate attributeName="opacity" from="0" to="1" begin="2.308s" dur="0.08s" fill="freeze"/></g>
+<g opacity="0"><text x="79.00" y="412.00" font-size="7" fill="#c9d1d9" textLength="134.40" lengthAdjust="spacingAndGlyphs" >`-==+*****+*++======++*cssccc+-`</text>
+<text x="221.80" y="412.00" font-size="7" fill="#c9d1d9" textLength="8.40" lengthAdjust="spacingAndGlyphs" >`.</text>
+<text x="238.60" y="412.00" font-size="7" fill="#c9d1d9" textLength="12.60" lengthAdjust="spacingAndGlyphs" >.`.</text><animate attributeName="opacity" from="0" to="1" begin="2.354s" dur="0.08s" fill="freeze"/></g>
+</svg>

@@ -1,0 +1,9 @@
+# For local regeneration of all three panels (portrait + info-card + heatmap).
+# The GitHub Action only installs requests + beautifulsoup4 for the daily
+# heatmap-only refresh — see .github/workflows/update-heatmap.yml.
+requests
+beautifulsoup4
+numpy
+opencv-python-headless
+pillow
+rembg
